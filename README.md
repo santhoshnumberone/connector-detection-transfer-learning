@@ -18,10 +18,13 @@ This project was developed in response to an interview assignment that required 
 - GitHub repository with model + training code
 - Video showcasing the model
 
+
 ---
 
 
 ## 🚧 Limitations
+
+While the final goal of a real-time deployed tf.js model was not reached, this project reflects a practical deep dive into transfer learning strategies using open-source object detection models under limited resources.
 
 Despite significant experimentation and analysis, a few constraints limited full deployment and results:
 
